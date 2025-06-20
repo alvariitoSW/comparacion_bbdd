@@ -10,8 +10,6 @@
 
 **Estudio Empírico Comparativo de Sistemas de Gestión de Datos**
 
-[📊 Ver Análisis Completo](#) • [📋 Documentación Técnica](#) • [🎯 Ver Portfolio](#)
-
 </div>
 
 ---
